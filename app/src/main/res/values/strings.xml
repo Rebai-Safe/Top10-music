@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" >Top 10 Music 2017 :      click To listen</string>
+    <string-array name="music_title">
+        <item>Despacito</item>
+        <item>Shape of you</item>
+        <item>Wild Thoughts</item>
+        <item>Unforgettable</item>
+        <item>Attention</item>
+        <item>2U</item>
+        <item>Im The one</item>
+        <item>Something Just Like this</item>
+        <item>It Aint Me</item>
+        <item>stay</item>
+    </string-array>
+    <string-array name="music_views">
+        <item>Luis fonsi</item>
+        <item>Ed Sheeran</item>
+        <item>DJ Khaled</item>
+        <item>Wild thoughts</item>
+        <item>french Montana</item>
+        <item>David Guetta</item>
+        <item>Coldpaly </item>
+        <item>Kygo</item>
+        <item>DJ Khaled</item>
+        <item>Alessia Cara</item>
+
+    </string-array>
+</resources>
